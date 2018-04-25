@@ -1,0 +1,49 @@
+.img1{
+  height: 88px;
+  width: 123px;
+}
+.c1{
+  background-color: #333;
+}
+.c4{
+  background-color: #333;
+}
+.navFoundation{
+background-color: #026e00;
+}
+a{
+color: #ccc;
+}
+p{
+  text-align: center;
+}
+.v8Link{
+  color: #43853d;
+}
+.npmLink{
+  color: #43853d;
+}
+.ltsLink{
+  color: #43853d;
+}
+.nodeLink{
+  color: #43853d;
+}
+.downloadH2{
+  text-align: center;
+}
+.btn{
+  background-color: #026e00;
+}
+.smallNav{
+  color: #026e00;
+}
+.linuxBottom{
+color: white;
+}
+.colabBottom{
+color: #43853d
+}
+.lastP{
+  color: white;
+}
